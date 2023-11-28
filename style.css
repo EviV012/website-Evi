@@ -20,7 +20,7 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #EEEEEE;    /* achtergrondkleur lichtgrijs */
+  background-color: #fbfbfb;    /* achtergrondkleur lichtgrijs */
   color: #303030;               /* tekstkleur donkergrijs */
 }  
 
@@ -124,7 +124,7 @@ nav li a.active {
 }
 
 #blok-1 {
- background-color: rgb(180, 213, 218);
+ background-color: rgb(142,179,209);
 }
 
 #foto-1 {
@@ -133,7 +133,8 @@ margin-left: 220px;
 }
 
 #blok-2 {
-background-color: rgb(241, 231, 218);
+background-color: rgb(239, 231, 219);
+height: 150px;
 }
 
 h3 {
@@ -145,7 +146,7 @@ h1 {
 }
 
 a:hover {
-  color: rgb(180, 213, 218);
+  color: rgb(142, 179, 209);
 }
 
 a {
