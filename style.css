@@ -125,16 +125,18 @@ nav li a.active {
 
 #blok-1 {
  background-color: rgb(142,179,209);
+ height: 200px;
 }
 
 #foto-1 {
 width: 180px;
-margin-left: 220px;
+margin-left: 190px;
+border: 2px solid white;
 }
 
 #blok-2 {
 background-color: rgb(239, 231, 219);
-height: 150px;
+height: 200px;
 }
 
 h3 {
@@ -151,4 +153,19 @@ a:hover {
 
 a {
   color:#303030 ;
+}
+
+#foto-3 {
+ 
+width: 200px;
+position: absolute  ;
+top: 920px;
+margin-left: 450px;
+border: 2px solid white;
+
+}
+
+#foto-2 {
+  width: 180px;
+ border: 2px solid white;
 }
