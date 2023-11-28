@@ -122,3 +122,32 @@ nav li a:hover {
 nav li a.active {
     background-color: skyblue;
 }
+
+#blok-1 {
+ background-color: rgb(180, 213, 218);
+}
+
+#foto-1 {
+width: 180px;
+margin-left: 220px;
+}
+
+#blok-2 {
+background-color: rgb(241, 231, 218);
+}
+
+h3 {
+  color: rgb(30,30,30);
+}
+
+h1 {
+  color: rgb(30,30,30)
+}
+
+a:hover {
+  color: rgb(180, 213, 218);
+}
+
+a {
+  color:#303030 ;
+}
