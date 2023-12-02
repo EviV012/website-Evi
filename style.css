@@ -129,8 +129,8 @@ nav li a.active {
 }
 
 #foto-1 {
-width: 180px;
-margin-left: 190px;
+width: 200px;
+margin-left: 170px;
 border: 2px solid white;
 }
 
@@ -147,7 +147,7 @@ h1 {
   color: rgb(30,30,30)
 }
 
-a:hover {
+.link-1 a:hover {
   color: rgb(142, 179, 209);
 }
 
@@ -166,6 +166,64 @@ border: 2px solid white;
 }
 
 #foto-2 {
-  width: 180px;
+  width: 190px;
  border: 2px solid white;
+ margin-left: 9px;
+ position: absolute;
+ bottom: 520px
+
+ 
 }
+
+
+#blok-11 {
+  background-color: rgb(208,135,140);
+  height: 200px;
+ }
+ 
+ #foto-11 {
+  width: 180px;
+  margin-left: 170px;
+  border: 2px solid white;
+ }
+ 
+ #blok-22 {
+ background-color: rgb(239, 231, 219);
+ height: 200px;
+ }
+
+ 
+ .link-2 a:hover {
+   color: rgb(208,135,140);
+ }
+ 
+ a {
+   color:#303030 ;
+ }
+ 
+ #foto-33 {
+  
+ width: 150px;
+ position: absolute  ;
+ top: 910px;
+ margin-left: 480px;
+ border: 2px solid #ffffff;
+ 
+ }
+ 
+ #foto-22 {
+  width: 190px;
+  border: 2px solid white;
+  margin-left: 9px;
+  position: absolute;
+  bottom: 520px
+ 
+ }
+ 
+ a:hover {
+   color: rgb(142, 179, 209);
+ }
+ 
+ a {
+   color:#303030 ;
+ }
