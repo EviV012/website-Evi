@@ -60,14 +60,32 @@ img {
 
 /* .item {} */ /* hier doen we nog niks mee, dat mag je zelf toevoegen */
 
-.item-plaatje {
-  float:left;
-  width:250px;
-  padding-right: 15px; /* zorgt dat plaatje niet tegen tekst komt */
+#item-plaatje {
+  width:180px;
+  margin-left: 500px;
+  position: relative;
+  bottom: 210px;
 }
+
+#item-plaatje-1 {
+  width: 150px;
+  margin-right: 500px;
+  position: relative;
+  bottom: 160px;
+}
+
 .item-tekst {
-  float:right;
+  float: left;
   width: 450px;
+  position: relative;
+  top: 7px;
+}
+  
+#item-tekst-1 {
+  float: right;
+  width: 450px;
+  position: relative;
+  top: 7px;
 }
 
 /* Indeling voor sub pagina */
@@ -205,7 +223,7 @@ border: 2px solid white;
   
  width: 150px;
  position: absolute  ;
- top: 910px;
+ top: 730px;
  margin-left: 480px;
  border: 2px solid #ffffff;
  
@@ -227,3 +245,14 @@ border: 2px solid white;
  a {
    color:#303030 ;
  }
+
+ #item-1 {
+background-color: rgb(198, 211, 182);
+height: 300px;
+ }
+
+ #item-2 {
+  background-color: rgb(239, 231, 219);
+  height: 200px;
+ }
+
