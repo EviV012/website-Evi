@@ -188,7 +188,7 @@ border: 2px solid white;
  border: 2px solid white;
  margin-left: 9px;
  position: absolute;
- bottom: 520px
+ bottom: 890px
 
  
 }
@@ -223,7 +223,7 @@ border: 2px solid white;
   
  width: 150px;
  position: absolute  ;
- top: 730px;
+ top: 740px;
  margin-left: 480px;
  border: 2px solid #ffffff;
  
@@ -234,7 +234,7 @@ border: 2px solid white;
   border: 2px solid white;
   margin-left: 9px;
   position: absolute;
-  bottom: 520px
+  bottom: 890px
  
  }
  
@@ -254,5 +254,54 @@ height: 300px;
  #item-2 {
   background-color: rgb(239, 231, 219);
   height: 200px;
+ }
+ 
+ #blok-5 {
+  background-color: rgb(142,179,209);
+  height: 200px;
+ }
+ 
+ #foto-10 {
+ width: 200px;
+ margin-left: 170px;
+ border: 2px solid white;
+ }
+ 
+ #blok-6 {
+ background-color: rgb(239, 231, 219);
+ height: 200px;
+ }
+ 
+ h3 {
+   color: rgb(30,30,30);
+ }
+ 
+ h1 {
+   color: rgb(30,30,30)
+ }
+ 
+ .link-3 a:hover {
+   color: rgb(142, 179, 209);
+ }
+
+ 
+ #foto-9 {
+  
+ width: 200px;
+ position: absolute  ;
+ top: 920px;
+ margin-left: 450px;
+ border: 2px solid white;
+ 
+ }
+ 
+ #foto-11 {
+   width: 190px;
+  border: 2px solid white;
+  margin-left: 9px;
+  position: absolute;
+  bottom: 890px
+ 
+  
  }
 
